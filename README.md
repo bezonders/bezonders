@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Sofiia, I`m Node Js Dev
+My name is Sofiia, I`m Node.js Dev,
+My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,linux,webstorm,html,css)](https://skillicons.dev)
 <!--
