@@ -3,7 +3,7 @@ My name is Sofiia, I`m Node.js Dev,
 
 My skills:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,linux,webstorm,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,linux,webstorm,html,css,vue)](https://skillicons.dev)
 <!--
 **bezonders/bezonders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
